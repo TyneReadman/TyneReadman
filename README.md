@@ -27,4 +27,4 @@ I'm a second-year Computer Science student with a passion for problem-solving an
 Feel free to check out my repositories or connect with me!
 
 📫 **Contact:** tynereadman@gmail.com  
-💼 **LinkedIn:** [Tyne Readman](www.linkedin.com/in/tyne-readman)
+💼 **LinkedIn:** www.linkedin.com/in/tyne-readman
