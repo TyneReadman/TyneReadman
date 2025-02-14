@@ -12,8 +12,7 @@ I'm a second-year Computer Science student with a passion for problem-solving an
 ### 💻 Tech Stack:
 - **Languages:** Python, Java, C++, (Learning Kotlin)
 - **Web Development:** HTML
-- **Version Control:** Git, GitHub
-- **Tools:** VSCode, Android Studio, Linux, IntelliJ IDEA, Processing
+- **Tools:** VSCode, Android Studio, Linux, IntelliJ IDEA, Processing, Git
 
 ### 🚀 What I'm working on:
 - Developing an app to send SMS notifications when I’m not connected to Wi-Fi
