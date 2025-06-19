@@ -3,7 +3,7 @@
 I'm a second-year Computer Science student with a passion for problem-solving and continuous learning. My GitHub may not be the most exciting right now, but there's plenty more to come—stay tuned!
 
 ### 🌟 About Me:
-- 🧑‍🎓 **Education:** 2nd-year Computer Science student
+- 🧑‍🎓 **Education:** 3rd-year Computer Science student
 - 💻 **Interests:** I’m passionate about exploring all aspects of computer science and always eager to take on new challenges that help me grow and refine my skills.
 - 🚀 **Currently Learning:** API integration, hardware interaction
 - 💡 **Projects:** Currently working on projects that apply data structures, algorithms, and web development.
